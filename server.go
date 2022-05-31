@@ -1,7 +1,7 @@
 package specialuse
 
 import (
-	"github.com/emersion/go-imap/server"
+	"github.com/sebas05000/go-imap/server"
 )
 
 type extension struct{}
